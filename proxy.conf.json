@@ -1,0 +1,8 @@
+{
+  "/rest/*": {
+    "target": "http://192.168.0.106:9090/IOTBackEnd",
+    "secure": false,
+    "logLevel": "debug",
+    "changeOrigin": true
+  }
+}
